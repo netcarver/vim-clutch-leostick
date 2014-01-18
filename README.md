@@ -30,7 +30,7 @@ Start vim as usual. When you want to enter insert mode just press and hold down 
 insert mode, release the footswitch.
 
 The arduino sketch takes care of de-bouncing the footswitch and detecting the press and release of the switch. It
-generates an 'i' keypress when the switch is depressed and sends an '<esc>' keypress when it is released.
+generates an 'i' keypress when the switch is depressed and sends an ```<esc>``` keypress when it is released.
 
 License
 -------
