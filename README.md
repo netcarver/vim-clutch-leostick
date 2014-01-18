@@ -18,7 +18,7 @@ should do just fine.
 Setup
 -----
 
-Connect your footswitch directly between D0 and GND on your Leostick. Plug it into a USB port on you machine, launch the
+Connect your footswitch directly between D0 and GND on your LeoStick. Plug it into a USB port on you machine, launch the
 Arduino IDE, load the provided .ino sketch then compile and upload it to your LeoStick. You should now have a working
 Vim-Clutch.
 
