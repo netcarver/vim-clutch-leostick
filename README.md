@@ -1,4 +1,4 @@
-Vim-Clutch Using A FreeTronics LeoStick.
+Vim-Clutch Using A Freetronics LeoStick.
 ========================================
 
 A Vim-Clutch is a footswitch that allows you to easily switch modes in Vim. As far as I can tell the original idea can
